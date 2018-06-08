@@ -1,6 +1,5 @@
 # Data Dashboard
 
-* 
 Nuestro Data Dashboard, esta enfocado para visualizar los progresos individuales, como en general.
 Basado en La Plataforma del LMS, como una parte de el.
 Contenido: 
