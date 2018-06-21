@@ -1,15 +1,14 @@
-[
-    {
+[{
         "id": "aqp-2018-03-jp-core-talento",
         "start": "2018-03-28",
-        "coursesIndex" : {},
+        "coursesIndex": {},
         "end": "2018-04-30",
-        "usersCount" : 7
+        "usersCount": 7
     },
     {
         "id": "cdmx-2016-01-bc-core-egresadas20161bootcamp",
         "end": "2016-06-30",
-        "usersCount" : 30,
+        "usersCount": 30,
         "start": "2016-01-01",
         "coursesIndex": {
             "basic-programming": {
